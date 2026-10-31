@@ -1,0 +1,16 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hotels - LW MARKETING</title>
+<style>body{margin:0;font-family:system-ui;background:#fff;color:#222}nav{background:#0a192f;padding:12px;text-align:center}nav a{color:#fff;margin:0 12px;text-decoration:none;font-weight:700;font-size:14px}.card{max-width:900px;margin:20px auto;padding:20px;border:1px solid #eee;border-radius:12px}.grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px}@media(max-width:700px){.grid{grid-template-columns:1fr 1fr}}@media(max-width:500px){.grid{grid-template-columns:1fr}}.hotel{border:1px solid #eee;border-radius:10px;overflow:hidden}.hotel img{width:100%;height:140px;object-fit:cover}.hotel div{padding:10px;font-size:13px}.btn{display:block;background:#0a192f;color:#fff;text-align:center;padding:10px;border-radius:6px;text-decoration:none;font-weight:700;margin-top:6px}.gold{color:#8B5A2B}.price{color:#2E7D32;font-weight:800}.faq{background:#f9f6f0;padding:10px;border-radius:6px;margin:6px 0;font-size:13px}</style></head><body>
+<nav><a href="index.html">Home</a><a href="safaris.html">Safaris</a><a href="cars.html">Car Hire</a><a href="hotels.html">Hotels</a></nav>
+<div class="card"><h2 class="gold">Hotels - Nairobi & Coast</h2>
+<div class="grid">
+<div class="hotel"><img src="https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=600"><div>JW Marriott Nairobi<br><small>5 Star</small><br><span class="price">$295 / KES 42,775</span><br><a class="btn" href="https://wa.me/254118408151?text=JW%20Marriott">Book</a></div></div>
+<div class="hotel"><img src="https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=600"><div>Swahili Beach Diani<br><small>5 Star</small><br><span class="price">$342 / KES 49,590</span><br><a class="btn" href="https://wa.me/254118408151?text=Swahili%20Beach">Book</a></div></div>
+<div class="hotel"><img src="https://images.unsplash.com/photo-1551882547-b79e5dba2a2e?w=600"><div>Mara Sopa Lodge<br><small>Mara</small><br><span class="price">$180 / KES 26,100</span><br><a class="btn" href="https://wa.me/254118408151?text=Mara%20Sopa">Book</a></div></div>
+</div></div>
+<div class="card"><h3 class="gold">FAQ & Contact - LW MARKETING</h3>
+<div class="faq"><b>Q: Pickup?</b> JKIA, CBD, Westlands, hotel - 6AM daily</div>
+<div class="faq"><b>Q: Confirmation?</b> Wait for confirmation within 24 hours after M-Pesa</div>
+<div class="faq"><b>Q: Cancellation?</b> >14 days 90% refund, 7-14 days 50%, <7 days date change</div>
+<div class="faq"><b>Contact:</b> Nairobi, Kenya | 0118408151 | lwmarketing.ke@gmail.com | Licensed</div>
+</div>
+</body></html>
