@@ -1,0 +1,23 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Safaris - LW MARKETING</title>
+<style>body{margin:0;font-family:system-ui;background:#fff;color:#222}nav{background:#0a192f;padding:12px;text-align:center}nav a{color:#fff;margin:0 12px;text-decoration:none;font-weight:700;font-size:14px}nav a:hover{color:#d4af37}.card{max-width:900px;margin:20px auto;padding:20px;border:1px solid #eee;border-radius:12px}img{width:100%;height:280px;object-fit:cover;border-radius:10px}.info{background:#f9f6f0;padding:10px;border-radius:6px;font-size:13px;margin:5px 0;border-left:3px solid #d4af37}.btn{display:block;background:#25D366;color:#fff;text-align:center;padding:14px;border-radius:8px;text-decoration:none;font-weight:800;margin-top:10px}.gold{color:#8B5A2B}</style></head><body>
+<nav><a href="index.html">Home</a><a href="safaris.html">Safaris</a><a href="cars.html">Car Hire</a><a href="hotels.html">Hotels</a></nav>
+<div class="card">
+<img src="https://images.unsplash.com/photo-1523805009345-7448845a9e53?w=1000" alt="Mara">
+<h2 class="gold">3-Day Maasai Mara Express - KES 48,500</h2>
+<p>4.9★ (127 reviews) • 342 booked this month</p>
+<p><b>Exact Accommodation:</b> Mara Sopa Lodge - Full Board</p>
+<p><b>Pickup:</b> JKIA / CBD / Westlands / Hotel 6AM • <b>Guide:</b> Professional English-speaking guide</p>
+<p><b>Day 1:</b> Nairobi to Mara, lunch, afternoon drive<br><b>Day 2:</b> Full day game tracking, Big 5, picnic lunch<br><b>Day 3:</b> Sunrise drive, return Nairobi 5PM</p>
+<div class="info">✓ Included: Transport 4x4 Land Cruiser Pop-roof, 2 Nights Mara Sopa Full Board, Citizen park fees, Professional English-speaking guide, Drinking Water 1L/day</div>
+<div class="info">✗ Not Included: Non-resident $80 top-up, Maasai village $30, Tips</div>
+<div class="info"><b>Booking Terms:</b> 40% deposit via M-Pesa 0118408151. Balance 7 days before. Cancellation >14 days 90% refund, 7-14 days 50%, <7 days date change allowed. Wait for confirmation within 24 hours.</div>
+<a class="btn" href="https://wa.me/254118408151?text=3-Day%20Mara%20KES%2048,500">📱 Book WhatsApp 0118408151</a>
+</div>
+<div class="card">
+<img src="https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=1000" alt="Amboseli Real">
+<h2 class="gold">5-Day Amboseli & Tsavo - KES 72,000</h2>
+<p>4.9★ (89 reviews) • Real Amboseli elephants + Kilimanjaro - not city photo</p>
+<p><b>Accommodation:</b> Amboseli Sopa Lodge (2N) + Salt Lick Lodge (2N) - Exact</p>
+<a class="btn" href="https://wa.me/254118408151?text=5-Day%20Amboseli">📱 Book WhatsApp</a>
+</div>
+</body></html>
